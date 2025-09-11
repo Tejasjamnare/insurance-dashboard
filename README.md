@@ -1,11 +1,6 @@
 # insurance-dashboard
 This dashboard gives a clear view of insurance performance analysis with income classes, meetings, invoices, and opportunities. It highlights targets vs achievements, top opportunities, and executive-wise contributions in a simple visual way.
 
-## Project Overview
-> Data collection
-> Data cleaning 
-> Initial Analysis using Pivot table & charts.
-
 ## KPI List
 1-No of Invoice by Accnt Exec
 2-Yearly Meeting Count
@@ -15,5 +10,10 @@ This dashboard gives a clear view of insurance performance analysis with income 
 4.Stage Funnel by Revenue
 5.No of meeting By Account Exe
 6-Top Open Opportunity
+
+## Project Overview
+> Data collection
+> Data cleaning 
+> Initial Analysis using Pivot table & charts.
 
 
